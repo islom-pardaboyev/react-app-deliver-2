@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b469b1f.css",
+    "main.js": "/static/js/main.0114b7df.js",
+    "static/media/DoughnutUnicorn.svg": "/static/media/DoughnutUnicorn.010fb62829c14ff11a9f55d66ca4b370.svg",
+    "static/media/PizzaPareponi.svg": "/static/media/PizzaPareponi.2d68d853a217d8578a6bef8b460237ab.svg",
+    "static/media/SalomROLL.svg": "/static/media/SalomROLL.6be31cb2938fcfc944a9c7931cb3f08d.svg",
+    "static/media/DoughnutMilk.svg": "/static/media/DoughnutMilk.6d824676fe260c1f908cd98d971eb6cd.svg",
+    "static/media/pizzaMeat.svg": "/static/media/pizzaMeat.6c68fc47c6481d14c3f642bd62996b32.svg",
+    "static/media/cupcakeChoco.svg": "/static/media/cupcakeChoco.fe729bf30553104241aa7d4e81edec57.svg",
+    "static/media/donar-kebab.svg": "/static/media/donar-kebab.464a245c6e330ed2c4da4e69e1244bdc.svg",
+    "static/media/KathiKebab.svg": "/static/media/KathiKebab.22443c69e57a7ee171e002b735f12134.svg",
+    "static/media/header-bg.png": "/static/media/header-bg.1cdf24c249d33554832c.png",
+    "static/media/heroImg.png": "/static/media/heroImg.4aac2bc3e5d80961ecf1.png",
+    "static/media/logo.svg": "/static/media/logo.3d65d51f9b1f29a93fcf2b00189b1288.svg",
+    "static/media/start2.svg": "/static/media/start2.0cd293b168b704a4dd30b262a40a1c2c.svg",
+    "index.html": "/index.html",
+    "static/media/star.svg": "/static/media/star.4881488e8a11d6b236e1ec3d5035ad7c.svg",
+    "main.8b469b1f.css.map": "/static/css/main.8b469b1f.css.map",
+    "main.0114b7df.js.map": "/static/js/main.0114b7df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b469b1f.css",
+    "static/js/main.0114b7df.js"
+  ]
+}
